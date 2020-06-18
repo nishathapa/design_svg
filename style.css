@@ -26,36 +26,43 @@ body{
 #logo path:nth-child(2){
     stroke-dasharray: 542.6px;
     stroke-dashoffset: 542.6px;
+    animation: line-anime 2s ease forwards;
 }
 
 #logo path:nth-child(3){
     stroke-dasharray: 533px;
     stroke-dashoffset: 533px;
+    animation: line-anime 2s ease forwards;
 }
 
 #logo path:nth-child(4){
-    stroke-dasharray: 231.75px;
-    stroke-dashoffset: 231.75px;
+    stroke-dasharray: 568.75px;
+    stroke-dashoffset: 568.75px;
+    animation: line-anime 2s ease forwards;
 }
 
 #logo path:nth-child(5){
     stroke-dasharray: 568px;
     stroke-dashoffset: 568px;
+    animation: line-anime 2s ease forwards;
 }
 
 #logo path:nth-child(6){
     stroke-dasharray: 606.6px;
     stroke-dashoffset: 606.6px;
+    animation: line-anime 2s ease forwards;
 }
 
 #logo path:nth-child(7){
-    stroke-dasharray: 525.6px;
-    stroke-dashoffset: 525.6px;
+    stroke-dasharray: 600.6px;
+    stroke-dashoffset: 600.6px;
+    animation: line-anime 2s ease forwards;
 }
 
 #logo path:nth-child(8){
     stroke-dasharray: 628px;
     stroke-dashoffset: 628px;
+    animation: line-anime 2s ease forwards;
 }
 
 @keyframes line-anime {
